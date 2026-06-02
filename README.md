@@ -106,7 +106,7 @@ Simultaneous Synthesis (UI Box Render + SpeechSynthesis Audio Stream)
         └─────────────────────────┘
 
 ----------------------------------------------------------------------------------------
-
+```
 🎨 User Interface Highlights
 
 The interface uses modern design practices engineered specifically to captivate the end-user.
