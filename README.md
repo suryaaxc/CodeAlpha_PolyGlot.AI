@@ -9,8 +9,6 @@
 🚀 Try the application here
 👉 https://polyglot-ai-suryaxc.streamlit.app/
 
-💻 Source Code
-👉 https://github.com/suryaaxc/CodeAlpha_PolyGlot.AI
 ----------------------------------------------------------------------------------------
 
 🎬 Project Overview
