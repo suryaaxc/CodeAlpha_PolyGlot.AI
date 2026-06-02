@@ -8,7 +8,7 @@
 
 🚀 Try the application here
 
-👉 [Paste Your Streamlit Custom URL Here]
+👉 https://polyglot-ai-suryaxc.streamlit.app/
 
 💻 Source Code
 
