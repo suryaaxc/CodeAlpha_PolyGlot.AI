@@ -161,12 +161,13 @@ CodeAlpha_PolyGlot.AI
 
 🔮 Future Improvements
 --------------------------
+```text
 -Possible production-grade upgrades scheduled for future releases:
 -Offline caching utilizing persistent database layers
 -Custom local fine-tuned language translation models
 -Batch document rendering (.pdf/.docx) parsing streams
 -Real-time microphone audio capture and direct transcription layers
-
+```
 👨‍💻 Author
 -----------
 Suryakant Kumar B.E. Computer Science Engineering (AI/ML) Chandigarh University
