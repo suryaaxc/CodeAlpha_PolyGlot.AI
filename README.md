@@ -52,7 +52,7 @@ Application fully optimized and deployed via Streamlit Community Cloud pipeline 
 
 The application execution loop handles user string inputs via specialized algorithmic structures.
 
-```text
+```
 Raw Input String Ingestion
           │
           ▼
@@ -157,7 +157,7 @@ CodeAlpha_PolyGlot.AI
 
 🔮 Future Improvements
 --------------------------
-```text
+```
 -Possible production-grade upgrades scheduled for future releases:
 -Offline caching utilizing persistent database layers
 -Custom local fine-tuned language translation models
@@ -166,9 +166,10 @@ CodeAlpha_PolyGlot.AI
 ```
 👨‍💻 Author
 -----------
+```
 Suryakant Kumar B.E. Computer Science Engineering (AI/ML) Chandigarh University
 🔗 GitHub: https://github.com/suryaaxc
-
+```
 📜 License
 ------------
 This project is licensed under the MIT License.
