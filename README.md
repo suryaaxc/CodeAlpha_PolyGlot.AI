@@ -55,6 +55,7 @@ Application fully optimized and deployed via Streamlit Community Cloud pipeline 
 
 The application execution loop handles user string inputs via specialized algorithmic structures.
 
+```text
 Raw Input String Ingestion
           │
           ▼
