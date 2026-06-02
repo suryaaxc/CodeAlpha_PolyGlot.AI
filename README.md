@@ -1,5 +1,5 @@
 # 🧬 PolyGlot.Translator AI
-### Distributed Translation Protocol // Quantum Core
+### Distributed Translation Protocol 
 <p align="center">
 </p>
 
