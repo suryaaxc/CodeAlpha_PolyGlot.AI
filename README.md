@@ -1,4 +1,4 @@
-# 🧬 PolyGlot.Translator AI
+# 🧬 PolyGlot.AI
 ### Distributed Translation Protocol 
 <p align="center">
 </p>
