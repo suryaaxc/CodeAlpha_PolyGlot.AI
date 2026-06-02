@@ -155,7 +155,7 @@ CodeAlpha_PolyGlot.AI
 ├── requirements.txt       # Production-grade dependency lockfile
 └── README.md              # Project documentation matrix
 
-
+```
 🔮 Future Improvements
 
 Possible production-grade upgrades scheduled for future releases:
