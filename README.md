@@ -22,7 +22,7 @@ This project highlights scalable Python development practices, custom DOM style 
 ----------------------------------------------------------------------------------------
 
 ✨ Key Features
-
+--------
 🌐 Multi-Node Language Translation
 
 Seamlessly translates text across major international global communication channels and language clusters.
