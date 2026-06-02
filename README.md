@@ -148,6 +148,7 @@ Core Aggregator | Deep-Translator Abstract Core Wrappers
 ----------------------------------------------------------------------------------------
 
 📂 Project Structure
+
 ```text
 CodeAlpha_PolyGlot.AI
 │
